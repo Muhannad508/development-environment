@@ -31,7 +31,7 @@
 
     # Increase minimum password strength
     - role: gantsign.pwquality
-      pwquality_minlen: 16
+      pwquality_minlen: 4
       pwquality_maxrepeat: 3
       # See https://github.com/gantsign/ansible_role_pwquality for more options
 
