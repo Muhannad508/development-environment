@@ -104,7 +104,7 @@ Vagrant.configure(2) do |config|
       'gui' => false,
       'cpus' => 3,
       'graphicscontroller' => nil,
-      'vram' => '64',
+      'vram' => '128',
       'accelerate3d' => 'off',
       'memory' => '6096',
       'clipboard' => 'bidirectional',
